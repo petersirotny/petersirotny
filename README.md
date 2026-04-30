@@ -32,22 +32,6 @@ End-to-end data analytics project using **PostgreSQL, Python, and Power BI**.
 
 ---
 
-## 📊 Dashboard Preview
-
-### Revenue Overview
-![Overview](assets/screenshots/01_overview.png)
-
-### Customer Analysis
-![Customer](assets/screenshots/02_customer_analysis.png)
-
-### Retention Analysis
-![Retention](assets/screenshots/03_retention_analysis.png)
-
-### Product Analysis
-![Product](assets/screenshots/04_product_analysis.png)
-
----
-
 ## 🎯 Goal
 
 My goal is to transition into a **junior data analyst role** and continue building strong real-world data projects.
