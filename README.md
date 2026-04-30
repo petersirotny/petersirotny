@@ -1,28 +1,53 @@
-# Hi, I'm Peter 👋
+# 👋 Hi, I'm Peter
 
-I work on **data analytics projects** using **SQL, Python and Power BI**, focusing on real-world datasets and business insights.
+I’m an aspiring Data Analyst focused on **SQL, Python (pandas), and Power BI**.
 
-## What I do
-- SQL analytics (joins, aggregations, window functions)
-- Python data processing (pandas)
-- data aggregation and transformation
-- Power BI dashboarding and visualization
-- working with messy data (missing values, duplicates, data validation)
-- Git and GitHub workflow
+I build end-to-end data projects — from data extraction and transformation to interactive dashboards and business insights.
 
-## Projects
+---
 
-### Customer Revenue & Retention Analytics
-One of my main projects focused on end-to-end data analysis using an e-commerce dataset.
+## 🚀 Featured Project
 
-- SQL data extraction and transformations
-- data cleaning and validation (handling missing/invalid data)
-- customer segmentation and revenue analysis
-- Pareto analysis (revenue concentration)
-- Power BI dashboard (3 pages: overview, customer analysis, product analysis)
+### 📊 E-commerce Revenue & Retention Analytics
 
-👉 https://github.com/petersirotny/customer-revenue-retention-analytics
+End-to-end data analytics project using **PostgreSQL, Python, and Power BI**.
 
-## Goal
+- SQL data extraction, joins, aggregations, window functions  
+- Data cleaning and validation (handling missing/invalid data)  
+- Customer segmentation and Pareto analysis (revenue concentration)  
+- Cohort retention analysis and customer behavior tracking  
+- Interactive Power BI dashboard (4 pages: overview, customer analysis, retention, product analysis)
 
-My goal is to transition into an **entry-level IT / data-related role** and continue building strong analytical and programming skills.
+👉 https://github.com/petersirotny/ecommerce-retention-analytics
+
+---
+
+## 🧠 Skills
+
+- SQL (PostgreSQL)  
+- Python (pandas)  
+- Data analysis & data cleaning  
+- Data visualization (Power BI)  
+- Analytical thinking & business insights  
+
+---
+
+## 📊 Dashboard Preview
+
+### Revenue Overview
+![Overview](assets/screenshots/01_overview.png)
+
+### Customer Analysis
+![Customer](assets/screenshots/02_customer_analysis.png)
+
+### Retention Analysis
+![Retention](assets/screenshots/03_retention_analysis.png)
+
+### Product Analysis
+![Product](assets/screenshots/04_product_analysis.png)
+
+---
+
+## 🎯 Goal
+
+My goal is to transition into a **junior data analyst role** and continue building strong real-world data projects.
