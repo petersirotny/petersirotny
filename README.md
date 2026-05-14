@@ -8,17 +8,23 @@ I build end-to-end data projects — from data extraction and transformation to 
 
 ## 🚀 Featured Project
 
-### 📊 E-commerce Revenue & Retention Analytics
+### 📊 Ecommerce Revenue Quality Analytics
 
-End-to-end data analytics project using **PostgreSQL, Python, and Power BI**.
+End-to-end ecommerce data analytics project using **PostgreSQL, SQL, Python, pandas and Power BI**.
 
-- SQL data extraction, joins, aggregations, window functions  
-- Data cleaning and validation (handling missing/invalid data)  
-- Customer segmentation and Pareto analysis (revenue concentration)  
-- Cohort retention analysis and customer behavior tracking  
-- Interactive Power BI dashboard (4 pages: overview, customer analysis, retention, product analysis)
+This project analyzes ecommerce revenue performance, customer behavior, retention, product/category performance, payment collection, campaign performance and refund risk.
 
-👉 https://github.com/petersirotny/ecommerce-retention-analytics
+- SQL data profiling, cleaning and analytical views
+- Data quality checks for missing, invalid and unknown records
+- Revenue validation: gross revenue, discounts, refunds and net revenue
+- Customer Pareto analysis and revenue concentration
+- Cohort retention analysis
+- Product and category performance analysis
+- Payment collection and campaign performance analysis
+- Refund and quality risk analysis
+- Power BI dashboard with 6 report pages
+
+👉 https://github.com/petersirotny/ecommerce-data-quality-revenue-analytics
 
 ---
 
